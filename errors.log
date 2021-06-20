@@ -1,0 +1,77 @@
+ERROR:2021/06/11 23:23:03 main.go:39: eeeeeeeeeeeeeeeeeeeeeee
+ERROR:2021/06/11 23:38:18 log.go:34: eeeeeeeeeeeeeeeeeeeeeee
+ERROR:2021/06/11 23:38:26 log.go:34: sdfsdfdddddddddd
+ERROR:2021/06/11 23:39:15 D:/goPath/src/gee/util/log/log.go:34: eeeeeeeeeeeeeeeeeeeeeee
+ERROR:2021/06/11 23:39:17 D:/goPath/src/gee/util/log/log.go:34: sdfsdfdddddddddd
+ERROR:2021/06/11 23:42:15 D:/goPath/src/gee/app/controller/index.go:11: sdfsdfdddddddddd
+ERROR:2021/06/11 23:44:53 D:/goPath/src/gee/app/controller/index.go:11: sdfsdfdddddddddd
+ERROR:2021/06/11 23:45:44 index.go:11: sdfsdfdddddddddd
+ERROR:2021/06/12 00:09:21 D:/goPath/src/gee/app/controller/index.go:11: sdfsdfdddddddddd
+ERROR:2021/06/12 00:09:21 D:/goPath/src/gee/util/log/log.go:46: adfsdfdsfsdfdsfeeeeeeeeeeee
+ERROR:2021/06/12 00:22:29 D:/goPath/src/gee/app/controller/index.go:11: sdfsdfdddddddddd
+ERROR:2021/06/12 00:23:33 D:/goPath/src/gee/app/controller/index.go:11: sdfsdfdddddddddd
+ERROR:2021/06/12 00:33:55 D:/goPath/src/gee/app/controller/index.go:11: sdfsdfdddddddddd
+ERROR:2021/06/12 00:35:10 D:/goPath/src/gee/app/controller/index.go:11: sdfsdfdddddddddd
+ERROR:2021/06/12 00:36:41 D:/goPath/src/gee/app/controller/index.go:11: sdfsdfdddddddddd
+ERROR:2021/06/12 00:36:41 D:/goPath/src/gee/app/controller/index.go:12: adfsdfdsfsdfdsfeeeeeeeeeeee
+ERROR:2021/06/12 00:52:36 D:/goPath/src/gee/util/log/log.go:35: open errorsss.log: The system cannot find the file specified.
+ERROR:2021/06/12 01:02:30 D:/goPath/src/gee/util/log/log.go:37: open errorsss.log: The system cannot find the file specified.
+ERROR:2021/06/12 01:13:42 D:/goPath/src/gee/app/controller/index.go 12 open errorsss.log: The system cannot find the file specified.
+ERROR:2021/06/12 01:15:30 D:/goPath/src/gee/app/controller/index.go 12 open errorsss.log: The system cannot find the file specified.
+ERROR:2021/06/12 01:15:30 D:/goPath/src/gee/app/controller/index.go:13: open errorsss.log: The system cannot find the file specified.
+ERROR:2021/06/12 01:16:41 D:/goPath/src/gee/app/controller/index.go:13: <nil>
+ERROR:2021/06/12 01:18:29 D:/goPath/src/gee/app/controller/index.go 13 open errorsss.log: The system cannot find the file specified.
+ERROR:2021/06/12 01:21:01 D:/goPath/src/gee/app/controller/index.go 13 open errorsss.log: The system cannot find the file specified.
+ERROR:2021/06/12 01:21:01 D:/goPath/src/gee/app/controller/index.go 14 dddddddddddddddd
+ERROR:2021/06/12 01:25:44 D:/goPath/src/gee/app/controller/index.go 13 [错误 open errorsss.log: The system cannot find the file specified.]
+ERROR:2021/06/12 01:25:44 D:/goPath/src/gee/app/controller/index.go 14 [dddddddddddddddd]
+ERROR:2021/06/12 01:28:59 D:/goPath/src/gee/app/controller/index.go 13 [错误 open errorsss.log: The system cannot find the file specified.]
+ERROR:2021/06/12 01:28:59 D:/goPath/src/gee/app/controller/index.go 14 [dddddddddddddddd]
+ERROR:2021/06/12 01:33:59 D:/goPath/src/gee/app/controller/index.go 13 []
+ERROR:2021/06/12 01:36:03 D:/goPath/src/gee/app/controller/index.go 13 [错误 open errorsss.log: The system cannot find the file specified.]
+ERROR:2021/06/12 01:36:03 D:/goPath/src/gee/app/controller/index.go 14 [dddddddddddddddd]
+ERROR:2021/06/12 01:38:33 D:/goPath/src/gee/app/controller/index.go 13 [错误 open errorsss.log: The system cannot find the file specified.]
+ERROR:2021/06/12 01:38:33 D:/goPath/src/gee/app/controller/index.go 14 [dddddddddddddddd]
+ERROR:2021/06/12 01:39:24 D:/goPath/src/gee/app/controller/index.go 13 错误
+ERROR:2021/06/12 01:39:24 D:/goPath/src/gee/app/controller/index.go 14 dddddddddddddddd
+ERROR:2021/06/12 01:42:30 D:/goPath/src/gee/app/controller/index.go 13 [错误 open errorsss.log: The system cannot find the file specified.]
+ERROR:2021/06/12 01:42:30 D:/goPath/src/gee/app/controller/index.go 14 [dddddddddddddddd]
+ERROR:2021/06/12 02:09:57 错误 open errorsss.log: The system cannot find the file specified. D:/goPath/src/gee/app/controller/index.go 13
+ERROR:2021/06/12 02:09:57 dddddddddddddddd D:/goPath/src/gee/app/controller/index.go 14
+ERROR:2021/06/12 02:13:46 D:/goPath/src/gee/app/controller/index.go 13 [错误 open errorsss.log: The system cannot find the file specified.]
+ERROR:2021/06/12 02:13:46 D:/goPath/src/gee/app/controller/index.go 14 [dddddddddddddddd]
+ERROR:2021/06/12 02:18:56 D:/goPath/src/gee/app/controller/index.go 13 D:/goPath/src/gee/app/controller/index.go 13
+ERROR:2021/06/12 02:18:56 D:/goPath/src/gee/app/controller/index.go 14 D:/goPath/src/gee/app/controller/index.go 14
+ERROR:2021/06/12 02:19:53 D:/goPath/src/gee/app/controller/index.go 13 错误 open errorsss.log: The system cannot find the file specified.
+ERROR:2021/06/12 02:19:53 D:/goPath/src/gee/app/controller/index.go 14 dddddddddddddddd
+ERROR:2021/06/12 02:24:50 D:/goPath/src/gee/app/controller/index.go 13 错误 open errorsss.log: The system cannot find the file specified.
+ERROR:2021/06/12 02:24:50 D:/goPath/src/gee/app/controller/index.go 14 dddddddddddddddd
+ERROR:2021/06/12 02:26:35 D:/goPath/src/gee/app/controller/index.go 13 open errorsss.log: The system cannot find the file specified. hhhsdfsdf哈哈
+ERROR:2021/06/12 02:26:35 D:/goPath/src/gee/app/controller/index.go 14 dddddddddddddddd
+ERROR:2021/06/12 02:29:03 D:/goPath/src/gee/main.go 16 sdfsdfsdfsdfsdfsdf
+ERROR:2021/06/12 03:05:06 D:/goPath/src/gee/util/loadini.go 29 读取配置文件错误 <nil>
+ERROR:2021/06/12 03:05:06 D:/goPath/src/gee/main.go 16 sdfsdfsdfsdfsdfsdf
+ERROR:2021/06/12 03:07:36 D:/goPath/src/gee/util/loadini.go 29 读取配置文件错误 <nil>
+ERROR:2021/06/12 03:07:36 D:/goPath/src/gee/main.go 16 sdfsdfsdfsdfsdfsdf
+ERROR:2021/06/12 03:08:41 D:/goPath/src/gee/util/loadini.go 29 读取配置文件错误 <nil>
+ERROR:2021/06/12 03:08:41 D:/goPath/src/gee/main.go 16 sdfsdfsdfsdfsdfsdf
+ERROR:2021/06/12 03:46:45 D:/goPath/src/gee/util/loadini.go 29 读取配置文件错误 <nil>
+ERROR:2021/06/12 03:46:45 D:/goPath/src/gee/main.go 16 sdfsdfsdfsdfsdfsdf
+ERROR:2021/06/12 03:53:22 D:/goPath/src/gee/util/loadini.go 29 读取配置文件错误 <nil>
+ERROR:2021/06/12 03:53:22 D:/goPath/src/gee/main.go 16 sdfsdfsdfsdfsdfsdf
+ERROR:2021/06/12 03:55:58 D:/goPath/src/gee/util/loadini.go 29 读取配置文件错误 <nil>
+ERROR:2021/06/12 03:55:58 D:/goPath/src/gee/main.go 16 sdfsdfsdfsdfsdfsdf
+ERROR:2021/06/12 03:58:25 D:/goPath/src/gee/util/loadini.go 29 读取配置文件错误 <nil>
+ERROR:2021/06/12 03:58:25 D:/goPath/src/gee/main.go 16 sdfsdfsdfsdfsdfsdf
+ERROR:2021/06/12 03:59:45 D:/goPath/src/gee/util/loadini.go 29 读取配置文件错误 <nil>
+ERROR:2021/06/12 03:59:45 D:/goPath/src/gee/main.go 16 sdfsdfsdfsdfsdfsdf
+ERROR:2021/06/12 04:04:44 D:/goPath/src/gee/util/loadini.go 29 读取配置文件错误 <nil>
+ERROR:2021/06/12 04:05:23 D:/goPath/src/gee/util/loadini.go 29 读取配置文件错误 <nil>
+ERROR:2021/06/12 04:07:44 D:/goPath/src/gee/util/loadini.go 29 读取配置文件错误 <nil>
+ERROR:2021/06/13 00:42:34 D:/goPath/src/gee/util/loadini.go 29 读取配置文件错误 <nil>
+ERROR:2021/06/13 15:26:57 D:/goPath/src/gee/util/loadini.go 30 读取配置文件错误 <nil>
+ERROR:2021/06/13 15:28:13 D:/goPath/src/gee/util/loadini.go 30 读取配置文件错误 <nil>
+ERROR:2021/06/13 15:28:58 D:/goPath/src/gee/util/loadini.go 30 读取配置文件错误 <nil>
+ERROR:2021/06/13 15:51:15 D:/goPath/src/gee/util/loadini.go 30 读取配置文件错误 <nil>
+ERROR:2021/06/13 15:57:20 D:/goPath/src/gee/util/loadini.go 30 读取配置文件错误 <nil>
+ERROR:2021/06/13 15:58:05 D:/goPath/src/gee/util/loadini.go 30 读取配置文件错误 <nil>
